@@ -37,4 +37,5 @@ main {
 	position: absolute;
 	top: 50%;
 	transform-origin: right;
+	transform: rotate(90deg);
 }
